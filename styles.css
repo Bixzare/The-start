@@ -1,0 +1,13 @@
+fieldset{
+    border:none;
+    padding-top: 10%;
+    background: rgba(0,0,100,0.8);
+    color:white;
+  }
+  body{
+    background-image: url("D:\D1\pexels-andrea-piacquadio-927451.jpg");
+    background-color: rgba(0,0,150,0.5);
+    width:60%;
+    margin:auto;
+    
+  }
